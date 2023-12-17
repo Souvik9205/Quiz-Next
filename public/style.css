@@ -1,0 +1,28 @@
+.correct {
+    background: rgb(170, 241, 170);
+    border-color: green;
+}
+.wrong {
+    background: rgb(242, 185, 185);
+    border-color: red;
+}
+.ul li {
+    display: flex;
+    align-items: center;
+    height: 70px;
+    padding-left: 15px;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+* {
+    background-color: rgb(159, 56, 56);
+}
+.home-page {
+    font-size: 3rem;
+}
+.container {
+    font-size: 2rem;
+}
